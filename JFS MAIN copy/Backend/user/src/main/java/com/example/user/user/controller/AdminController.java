@@ -26,7 +26,7 @@ import com.example.user.user.service.TheaterService;
 @RestController
 @CrossOrigin(origins ="*")
 public class AdminController {
-	
+	//Hiii
 	@Autowired
 	public AdminRepo repo;
 	@Autowired
